@@ -1,0 +1,1977 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A108C2F27E10D5805E3',
+    participant: undefined
+  },
+  messageTimestamp: 1675953256,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'Menú',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAE839971BAFF247FC3',
+    participant: undefined
+  },
+  messageTimestamp: 1675953269,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🔧 Soporte',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🔧 Soporte',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE5D780808179F3B40C',
+    participant: undefined
+  },
+  messageTimestamp: 1675953275,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '💰 Pagos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '💰 Pagos',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABDA0446E0169302FD0',
+    participant: undefined
+  },
+  messageTimestamp: 1675953280,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: '🧑‍💻 Conócenos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🧑‍💻 Conócenos',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC66352D03E4258D390',
+    participant: undefined
+  },
+  messageTimestamp: 1675953309,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🔌 Conexión',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🔌 Conexión',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC7BC4AF2B22B5C1873',
+    participant: undefined
+  },
+  messageTimestamp: 1675953314,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '📡 Equipos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '📡 Equipos',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE5A8038C05CDFA9F1F',
+    participant: undefined
+  },
+  messageTimestamp: 1675953319,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: '⚠️ Otros',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '⚠️ Otros',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABB853C11531DE73286',
+    participant: undefined
+  },
+  messageTimestamp: 1675953325,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '💳 Métodos de Pago',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '💳 Métodos de Pago',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A399A56E37AC8867541',
+    participant: undefined
+  },
+  messageTimestamp: 1675953353,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '📎 Registrar comprobante',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '📎 Registrar comprobante',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEB4457FAF2A88AA6C9',
+    participant: undefined
+  },
+  messageTimestamp: 1675953361,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: '🤔 Otros',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🤔 Otros',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A61400AEB7EB860B305',
+    participant: undefined
+  },
+  messageTimestamp: 1675953373,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🛎️ Servicios',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🛎️ Servicios',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1DF4F7596D7E9FD7EE',
+    participant: undefined
+  },
+  messageTimestamp: 1675953380,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🏢 Oficinas',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🏢 Oficinas',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8A319386BBF976CE33',
+    participant: undefined
+  },
+  messageTimestamp: 1675953419,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: '👥 Redes sociales',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '👥 Redes sociales',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC3DC06D9B1D6354AF6',
+    participant: undefined
+  },
+  messageTimestamp: 1675953427,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🔌 Reconectar internet',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🔌 Reconectar internet',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A228229376964EBE9EB',
+    participant: undefined
+  },
+  messageTimestamp: 1675953435,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A04F56FB4C5CF9558EC',
+    participant: undefined
+  },
+  messageTimestamp: 1675953452,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '⚡ Acelerar internet',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '⚡ Acelerar internet',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD5D0877E3FF6104EBC',
+    participant: undefined
+  },
+  messageTimestamp: 1675953459,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A132A9EF2C0502BD790',
+    participant: undefined
+  },
+  messageTimestamp: 1675953515,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🚚 Cambio de domicilio',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🚚 Cambio de domicilio',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A42580D7062E68E4DCB',
+    participant: undefined
+  },
+  messageTimestamp: 1675953519,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A69E4675AEEDEBC0D4D',
+    participant: undefined
+  },
+  messageTimestamp: 1675953527,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🔧 Cambiar equipos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🔧 Cambiar equipos',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8B8DC6253EC6FE0934',
+    participant: undefined
+  },
+  messageTimestamp: 1675953531,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC4C665DAB403136528',
+    participant: undefined
+  },
+  messageTimestamp: 1675953543,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '📡 Arreglar canales',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '📡 Arreglar canales',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A534D82403F3E2AB6F9',
+    participant: undefined
+  },
+  messageTimestamp: 1675953547,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC5E9319408CBB4A0C4',
+    participant: undefined
+  },
+  messageTimestamp: 1675953558,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🔒 Cambio de contraseña',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🔒 Cambio de contraseña',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2FAA9907782DBD81AE',
+    participant: undefined
+  },
+  messageTimestamp: 1675953568,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: '📑 Ingresar requerimiento',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '📑 Ingresar requerimiento',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA567E28BE524BF6A01',
+    participant: undefined
+  },
+  messageTimestamp: 1675953573,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A53CA25538F3559251E',
+    participant: undefined
+  },
+  messageTimestamp: 1675953603,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🏢 Oficinas',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🏢 Oficinas',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A28F645D0C3EAC3B98B',
+    participant: undefined
+  },
+  messageTimestamp: 1675953635,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '📄 Datos de las cuentas',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '📄 Datos de las cuentas',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0F2BCDFBECCB7045AC',
+    participant: undefined
+  },
+  messageTimestamp: 1675953645,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '📄 Solicitar factura',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '📄 Solicitar factura',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8EE3678476BAB93186',
+    participant: undefined
+  },
+  messageTimestamp: 1675953650,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A42BF38BE10A76110D2',
+    participant: undefined
+  },
+  messageTimestamp: 1675953786,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🙏 Promesa de pago',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🙏 Promesa de pago',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD1ED0BE12388A4117F',
+    participant: undefined
+  },
+  messageTimestamp: 1675953789,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A51245269E6A4ED3B18',
+    participant: undefined
+  },
+  messageTimestamp: 1675953805,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: '⚠️ Error en pagos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '⚠️ Error en pagos',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFD2706DA3E84A4C766',
+    participant: undefined
+  },
+  messageTimestamp: 1675953833,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🏢 Matriz Alamor',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🏢 Matriz Alamor',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6D005DAB9EA7A8FBC6',
+    participant: undefined
+  },
+  messageTimestamp: 1675953854,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🏠 Sucursales',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🏠 Sucursales',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A28ED5FF33EFD6E4224',
+    participant: undefined
+  },
+  messageTimestamp: 1675953869,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🙋 Por mi cuenta',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🙋 Por mi cuenta',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0718CC6ABA40FCA29A',
+    participant: undefined
+  },
+  messageTimestamp: 1675953875,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🧑‍💻 Necesito ayuda',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🧑‍💻 Necesito ayuda',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A46E084761B80D0E6B5',
+    participant: undefined
+  },
+  messageTimestamp: 1675953879,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5436D00928531F4817',
+    participant: undefined
+  },
+  messageTimestamp: 1675953905,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🟩 Banco de Loja',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🟩 Banco de Loja',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A627D9D0B2717561987',
+    participant: undefined
+  },
+  messageTimestamp: 1675953923,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🟨 Banco Pichincha',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🟨 Banco Pichincha',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A80D95FDA03B01BC064',
+    participant: undefined
+  },
+  messageTimestamp: 1675953965,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '⛰️ Celica',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '⛰️ Celica',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A63233D70A523B69539',
+    participant: undefined
+  },
+  messageTimestamp: 1675954108,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '🌽 Pindal',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🌽 Pindal',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC0A24D189F81DE43A9',
+    participant: undefined
+  },
+  messageTimestamp: 1675954121,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: '🏝️ Zapotillo',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '🏝️ Zapotillo',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A82F868CDC68867C1AA',
+    participant: undefined
+  },
+  messageTimestamp: 1675954146,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '⬆️ Fibra óptica',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '⬆️ Fibra óptica',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB52A879F648509EC74',
+    participant: undefined
+  },
+  messageTimestamp: 1675954151,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFCA61646EB71B375E9',
+    participant: undefined
+  },
+  messageTimestamp: 1675954200,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '📡 Antena',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: '📡 Antena',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD00AFCCDF45513CE9D',
+    participant: undefined
+  },
+  messageTimestamp: 1675954244,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'TP-Link',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'TP-Link',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABCCEE44F6337C09875',
+    participant: undefined
+  },
+  messageTimestamp: 1675954249,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'QPCOM',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'QPCOM',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC3343E1FEFDDFA488C',
+    participant: undefined
+  },
+  messageTimestamp: 1675954253,
+  pushName: 'CONECTATE',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-2',
+      selectedDisplayText: 'Otro router',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'Otro router',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593989681810@s.whatsapp.net',
+    fromMe: false,
+    id: '3A711767D891FB1AC364',
+    participant: undefined
+  },
+  messageTimestamp: 1675954257,
+  pushName: 'CONECTATE',
+  message: Message {
+    conversation: 'ABC',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'CONECTATE',
+  body: 'ABC',
+  from: '593989681810'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984774852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A64D307BFA88D6542FA',
+    participant: undefined
+  },
+  messageTimestamp: 1675954729,
+  pushName: 'Joselin Benavides',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32770853_151395080728905_6810402557861735274_n.enc?ccb=11-4&oh=01_AdQORBIdwntoguxUQZvpJsotr9y8k4n-p1zKaBV6cvyfxg&oe=640C8933&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 49,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32770853_151395080728905_6810402557861735274_n.enc?ccb=11-4&oh=01_AdQORBIdwntoguxUQZvpJsotr9y8k4n-p1zKaBV6cvyfxg&oe=640C8933',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593984774852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '1638993902@broadcast',
+    fromMe: false,
+    id: '7BE3788A915510CD87084F8ADFD7FDD0',
+    participant: '593982201652@s.whatsapp.net'
+  },
+  messageTimestamp: 1675955889,
+  pushName: 'Francisco Espín V',
+  message: Message {
+    senderKeyDistributionMessage: SenderKeyDistributionMessage {
+      groupId: '1638993902@broadcast',
+      axolotlSenderKeyDistributionMessage: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/34639920_868211924446681_6608374689350366069_n.enc?ccb=11-4&oh=01_AdQz9eJl2R03rWhCliprzzpLfyj_f94BnszSB_EDyGvmog&oe=640C78F2&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Asalariados del gobierno alteran los votos en la consulta.                         PAREMOS EL FRAUDE YA.  !!!',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/34639920_868211924446681_6608374689350366069_n.enc?ccb=11-4&oh=01_AdQz9eJl2R03rWhCliprzzpLfyj_f94BnszSB_EDyGvmog&oe=640C78F2',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    }
+  },
+  body: '',
+  from: '1638993902@broadcast'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593968974502@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB034BD868528973A31',
+    participant: undefined
+  },
+  messageTimestamp: 1675958943,
+  pushName: '🌹',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '593968974502'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593968974502@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06F145B530D07A336',
+    participant: undefined
+  },
+  messageTimestamp: 1675962024,
+  pushName: '🌹',
+  message: Message {
+    conversation: 'okis gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'okis gracias',
+  from: '593968974502'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: 'C16F106C912B92BDE07B70F6CB1C7BB6',
+    participant: undefined
+  },
+  messageTimestamp: 1675962100,
+  pushName: 'Daniel Macas',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hoña',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: 'FFC9AE5D948CD21085C7C104E5E47534',
+    participant: undefined
+  },
+  messageTimestamp: 1675962106,
+  pushName: 'Daniel Macas',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: 'A9AD8495D9175A368F2452BE36E05701',
+    participant: undefined
+  },
+  messageTimestamp: 1675962119,
+  pushName: 'Daniel Macas',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '💰 Pagos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: '💰 Pagos',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: '246D60AF58273CDE64F0B9AA7A236203',
+    participant: undefined
+  },
+  messageTimestamp: 1675962123,
+  pushName: 'Daniel Macas',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '📎 Registrar comprobante',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: '📎 Registrar comprobante',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: '91765F6EE8669105EE62028FEB46DB4C',
+    participant: undefined
+  },
+  messageTimestamp: 1675962137,
+  pushName: 'Daniel Macas',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: 'E8EFD64826FCD4E68C5DC60CC9F4C5F0',
+    participant: undefined
+  },
+  messageTimestamp: 1675962148,
+  pushName: 'Daniel Macas',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🔧 Soporte',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: '🔧 Soporte',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: '54BA3337A6F19B91C1F17D93CFDE8776',
+    participant: undefined
+  },
+  messageTimestamp: 1675962156,
+  pushName: 'Daniel Macas',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '🔌 Conexión',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: '🔌 Conexión',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: 'ADDD82F57EBDE3B29C03ED4883B3A9E2',
+    participant: undefined
+  },
+  messageTimestamp: 1675962161,
+  pushName: 'Daniel Macas',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '⚡ Acelerar internet',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: '⚡ Acelerar internet',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593981708628@s.whatsapp.net',
+    fromMe: false,
+    id: 'B0D6A87C95F25D0D21EFB7BBC088DC8D',
+    participant: undefined
+  },
+  messageTimestamp: 1675962171,
+  pushName: 'Daniel Macas',
+  message: Message {
+    conversation: 'Jj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jj',
+  from: '593981708628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984774852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9D4729E74DE4CCA916',
+    participant: undefined
+  },
+  messageTimestamp: 1675964519,
+  pushName: 'Joselin Benavides',
+  message: Message {
+    conversation: 'Verdad que allá siguen en invierno. Ahí abríguese',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Verdad que allá siguen en invierno. Ahí abríguese',
+  from: '593984774852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984774852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7A6205043941AF87B6',
+    participant: undefined
+  },
+  messageTimestamp: 1675964523,
+  pushName: 'Joselin Benavides',
+  message: Message {
+    conversation: 'Listo le confirmo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Listo le confirmo',
+  from: '593984774852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984774852@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEBF4FCF3E67A104E7A',
+    participant: undefined
+  },
+  messageTimestamp: 1675964537,
+  pushName: 'Joselin Benavides',
+  message: Message {
+    conversation: 'Buen provecho si ya va al almuerzo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buen provecho si ya va al almuerzo',
+  from: '593984774852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984774852@s.whatsapp.net',
+    fromMe: false,
+    id: '3A73F63975A92D609331',
+    participant: undefined
+  },
+  messageTimestamp: 1675968467,
+  pushName: 'Joselin Benavides',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '👍',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '593984774852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593984774852@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE1B14D56038C4776F4',
+    participant: undefined
+  },
+  messageTimestamp: 1675968470,
+  pushName: 'Joselin Benavides',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '👍',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '593984774852'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1455F6895E627671AE',
+    participant: undefined
+  },
+  messageTimestamp: 1675973690,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Hola Pepin',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola Pepin',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABCF2E367549C087D2C',
+    participant: undefined
+  },
+  messageTimestamp: 1675973711,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Jajaja no quiero comprar nada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajaja no quiero comprar nada',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A91249E9722B90E6EDD',
+    participant: undefined
+  },
+  messageTimestamp: 1675973730,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Jajaja ayúdame Pepe José',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajaja ayúdame Pepe José',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A858A853D3D0D0F4D96',
+    participant: undefined
+  },
+  messageTimestamp: 1675973747,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Licenciado',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Licenciado',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB855124F461DD4D304',
+    participant: undefined
+  },
+  messageTimestamp: 1675973775,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Voy dos días en el trabajo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Voy dos días en el trabajo',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE3E8852346E09E68BE',
+    participant: undefined
+  },
+  messageTimestamp: 1675973777,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Creo que desconfiguré',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Creo que desconfiguré',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7D613EE798BF42876A',
+    participant: undefined
+  },
+  messageTimestamp: 1675973781,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'La impresora jaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'La impresora jaja',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A076B325BE8D4408DCB',
+    participant: undefined
+  },
+  messageTimestamp: 1675973787,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: '🥶',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '🥶',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB471744A3EE4DDF88B',
+    participant: undefined
+  },
+  messageTimestamp: 1675973860,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'No creo que es nada externo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No creo que es nada externo',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABAE8FDCC6884906807',
+    participant: undefined
+  },
+  messageTimestamp: 1675973871,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Porque sale eso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Porque sale eso',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A14004A956194C3B2CC',
+    participant: undefined
+  },
+  messageTimestamp: 1675973878,
+  pushName: 'Joselin',
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/32325732_620444773176085_3777996362322577138_n.enc?ccb=11-4&oh=01_AdQ6SpKIqvxzrdnCNiL0gaGnrKwkziIstIjxf_IC-mrZSg&oe=640CAAAB&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/32325732_620444773176085_3777996362322577138_n.enc?ccb=11-4&oh=01_AdQ6SpKIqvxzrdnCNiL0gaGnrKwkziIstIjxf_IC-mrZSg&oe=640CAAAB',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 10311,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6F5732BF7FB5A0F1AF',
+    participant: undefined
+  },
+  messageTimestamp: 1675973967,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Acolitame por fi el rato que puedas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Acolitame por fi el rato que puedas',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6858C1A44060D3C720',
+    participant: undefined
+  },
+  messageTimestamp: 1675973974,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Yo estoy aquí hasta las 6:30',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo estoy aquí hasta las 6:30',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADB71F860E472491B31',
+    participant: undefined
+  },
+  messageTimestamp: 1675974039,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Oki',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Oki',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB5F396F452AE817F0C',
+    participant: undefined
+  },
+  messageTimestamp: 1675974051,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'En el tercero',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En el tercero',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8662882E40C5F86FCC',
+    participant: undefined
+  },
+  messageTimestamp: 1675974066,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'El siguiente piso de la radio integración',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El siguiente piso de la radio integración',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A34E2B771CD22B26C99',
+    participant: undefined
+  },
+  messageTimestamp: 1675974096,
+  pushName: 'Joselin',
+  message: Message {
+    conversation: 'Muchas gracias inge',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muchas gracias inge',
+  from: '593987746324'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593987746324@s.whatsapp.net',
+    fromMe: false,
+    id: '3A889BB035F17BF35071',
+    participant: undefined
+  },
+  messageTimestamp: 1675974101,
+  pushName: 'Joselin',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/21603931_1991607641042089_6357406107490584983_n.enc?ccb=11-4&oh=01_AdSmB1FgC3XM6ccY50TaPLmowUEJOHzbiJJcbYLw2Oqv1A&oe=640CBE25&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/21603931_1991607641042089_6357406107490584983_n.enc?ccb=11-4&oh=01_AdSmB1FgC3XM6ccY50TaPLmowUEJOHzbiJJcbYLw2Oqv1A&oe=640CBE25',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 5746,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '593987746324'
+}
